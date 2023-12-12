@@ -1,0 +1,7 @@
+.contentCenter{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    place-content: center;
+    flex-wrap: wrap;
+}
