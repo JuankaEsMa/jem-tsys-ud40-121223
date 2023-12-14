@@ -1,3 +1,7 @@
 .imgCharacters{
     height: 100%;
 }
+.containerCharacter{
+    background-color: rgb(140, 229, 140);
+    font-weight: bold;
+}
